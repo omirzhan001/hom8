@@ -1,0 +1,30 @@
+.MediumAlike {
+    color: #000;
+    width: 100%;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Kanit;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px; /* 122.222% */
+    text-transform: lowercase;
+    margin: 64px;
+}
+.helloWorld {
+    color: #000;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: 'Kanit', sans-serif; /* Убедитесь, что шрифт подключен */
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120px; /* 250% */
+    margin: top 8px; ;
+}
+.header {
+    display: inline-block;
+      width: 80%;
+      margin: 0 2%;
+      padding: 10px;
+      background-color: #f0f0f0;
+      text-align: left;
+}
